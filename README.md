@@ -77,6 +77,17 @@ The dataset contains information about Amazon Prime titles, including:
 
 ---
 
+## 🖼 Final Dashboard Output
+
+Below is the final interactive **Power BI Dashboard** created for the Amazon Prime Titles analysis.  
+The dashboard provides insights into genre distribution, content types, country-wise availability, release trends, and maturity ratings using dynamic visuals and slicers.
+
+<img width="911" height="507" alt="img" src="https://github.com/user-attachments/assets/a02a4fb7-94fd-4509-a557-a5b498597b68" />
+
+
+
+---
+
 ## 📊 Power BI Dashboard Features
 - Interactive filters by country, year, rating, and type  
 - Dynamic charts and visuals  
